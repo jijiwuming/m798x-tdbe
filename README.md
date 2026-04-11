@@ -108,6 +108,7 @@ flowchart LR
 | **5252pt**      | [OpenWrt PR #21461](https://github.com/openwrt/openwrt/pull/21461) | 推动 Tenda BE12 Pro 进入 OpenWrt 主线，设备 DTS 源头。 |
 | **hanwckf**     | [CMi Blog](https://cmi.hanwckf.top/p/immortalwrt-mt798x/) | MT798x 系列先行者，技术指引 |
 | **deepwiki**    | [DeepWiki: MTK Hardware NAT & PPE](https://deepwiki.com/tagatac/mtk-openwrt-feeds/4.2-hardware-nat-and-ppe) | MTK 硬件 NAT 与 PPE 技术深度解析 |
+| **kalicyh**     | [GitHub: m798x-tdbe](https://github.com/kalicyh/m798x-tdbe) | 为 Tenda BE12 Pro 提供完整的 ImmortalWrt 适配仓库，包含设备树及基础配置 |
 
 
 
